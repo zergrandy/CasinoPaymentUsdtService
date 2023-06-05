@@ -117,7 +117,7 @@ namespace CasinoPaymentUsdtService
                             DateTime req_date = DateTime.Parse(paymentPendingReq.req_date);
 
                             //如果現在時間大於付款期限，則代表超過時間未支付
-                            if (dtNow > req_date.AddMinutes(15))//寬限三分鐘
+                            if (dtNow > req_date.AddMinutes(33))//寬限三分鐘
                             {
                                 //更新支付任務資料狀態為 expired & 完成後餘額
                                 PaymentTask.Update_payment_req_Status(paymentPendingReq.id, "expired");
@@ -133,7 +133,7 @@ namespace CasinoPaymentUsdtService
                             }
                         }
                         Utility.LogAndConsole($"(Thread_Payment)  ");
-                        System.Threading.Thread.Sleep(500);
+                        System.Threading.Thread.Sleep(300);
                     }
                 }
                 catch (Exception ex)
