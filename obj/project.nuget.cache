@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CJMIfdPWGdood5IyrZzu3luiz1lJUKKv3bkxyRz7nteVy1GEA3mSQ67+73rt3lPp66X2ub4Rfd6Xrw91kUiZ2g==",
+  "dgSpecHash": "uVMsjC7IUdUy+Hy0p5TAo7q9QKQAp9c4AbVM0sG6mOW59aa4j+zBmpAr50W1gGRRkHlN9oNT2LhtOe6x3gWn8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zergrandy\\source\\repos\\CasinoPaymentUsdtService\\CasinoPaymentUsdtService.csproj",
+  "projectFilePath": "D:\\git\\CasinoPaymentUsdtService\\CasinoPaymentUsdtService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zergrandy\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\zergrandy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",

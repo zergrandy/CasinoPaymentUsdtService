@@ -659,11 +659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zergrandy\\source\\repos\\CasinoPaymentUsdtService\\CasinoPaymentUsdtService.csproj",
+      "projectUniqueName": "D:\\git\\CasinoPaymentUsdtService\\CasinoPaymentUsdtService.csproj",
       "projectName": "CasinoPaymentUsdtService",
-      "projectPath": "C:\\Users\\zergrandy\\source\\repos\\CasinoPaymentUsdtService\\CasinoPaymentUsdtService.csproj",
+      "projectPath": "D:\\git\\CasinoPaymentUsdtService\\CasinoPaymentUsdtService.csproj",
       "packagesPath": "C:\\Users\\zergrandy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zergrandy\\source\\repos\\CasinoPaymentUsdtService\\obj\\",
+      "outputPath": "D:\\git\\CasinoPaymentUsdtService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
