@@ -1,0 +1,39 @@
+# 建置相關的檔案
+bin/
+obj/
+[Oo]bj/
+[Bb]in/
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# NuGet 軟體包目錄
+*.nuget/
+
+# 測試生成的檔案
+TestResults/
+
+# 進入點執行檔案
+*.exe
+
+# 生成的 NuGet 軟體包
+*.nupkg
+
+# 專案檔案和編譯生成的檔案
+*.suo
+*.user
+*.sln.docstates
+*.bak
+*.cache
+*.csproj.user
+*.dotCover
+*.resharper
+_ReSharper.*
+*.dotSettings.user
+*.rpt
+*.publishsettings
+*.pubxml
+*.pubxml.user
